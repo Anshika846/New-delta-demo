@@ -1,2 +1,2 @@
 # New-delta-demo
-this is a git and GitHub study.
+This is a git and GitHub study.
